@@ -2,6 +2,3 @@
 
 
 hi tejas
-
-this is from tejas1
-
