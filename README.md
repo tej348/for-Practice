@@ -1,7 +1,1 @@
-# for-Practice
-
-
-hi tejas
-hi github
-this is next commit thanks!!!
-
+Hi I'm Tejas Ambekar but main
